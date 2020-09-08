@@ -1,0 +1,118 @@
+h1 {
+    color: yellow;
+    font-size: 20mm;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+ 
+    
+  }
+
+  h2 {
+    color: white;
+    font-size: 20mm;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+
+  }
+
+  h3 {
+    color: white;
+    font-size: 10mm;
+    font-family: 'Fjalla One', sans-serif;
+   
+
+  }
+
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+    color: white;
+  }
+
+
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20mm;
+    width: 50%;
+  }
+
+  body {
+    background-image: linear-gradient(rgb(90, 174, 185),lightblue,white);
+  }
+
+
+
+  
+  
+  .p2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: left;
+  }
+
+  
+  .melissa2{
+    width: 89mm;
+    height: 100mm;
+    display: block;
+  
+    
+   
+  
+  }
+
+  .bill{
+    width: 89mm;
+    height: 60mm;
+    display: block;
+  
+    
+   
+  
+  }
+
+  .melissa {
+    background-color: red;
+    width: 89mm;
+    height: 100mm;
+    display: block;
+    margin-left: 90mm;
+    text-align:center;
+  
+  
+  
+  }
+.acteurs{
+  
+
+}
+  .acteursfoto {
+    
+    width: 110mm;
+    height: 300mm;
+    
+    
+
+  }
+
+  .teksten {
+    background-color: blue;
+    width: 110mm;
+    height: 30mm;
+    margin-left: 200mm;
+    margin-top: 0em;
+   
+   
+   
+    
+  }
